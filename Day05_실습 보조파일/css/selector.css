@@ -31,6 +31,7 @@ header h1 {
 header ul {
 	/* TODO 여기에 작성해보세요:) */
 	float: right;
+
 }
 
 header ul li {
@@ -44,7 +45,7 @@ header ul li a {
 	padding:10px 20px;
 	text-decoration: none;
 	margin-right: 20px; 
-	border: 10 solid #ccc;
+	border: 10px solid gray;
 	border-radius: 10px;
 	color: gray;
 }
