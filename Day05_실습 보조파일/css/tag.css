@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+
+header {
+	/* TODO 여기에 작성해보세요:) */
+	height:85px;
+	background-color: #f0f0f0;
+	padding: 10px;
+
+}
+
+header h1 {
+	/* TODO 여기에 작성해보세요:) */
+	float:left;
+	font-size : 1.8rem
+}
+
+header ul {
+	/* TODO 여기에 작성해보세요:) */
+	float:right;
+}
+
+header ul li {
+	/* TODO 여기에 작성해보세요:) */
+	list-style: none;
+	display: inline-block;
+
+}
+header ul li {
+	text-decoration: none;
+	color: black;
+
+}
+
+article {
+	/* TODO 여기에 작성해보세요:) */
+	min-height: 500px;
+}
+
+article section {
+	/* TODO 여기에 작성해보세요:) */
+	float :left;
+}
+
+article aside {
+	/* TODO 여기에 작성해보세요:) */
+	float :right;
+	width :200px;
+	background-color: blueviolet;
+	min-height: 500px;
+
+}
+
+footer {
+	/* TODO 여기에 작성해보세요:) */
+	height: 100px;
+	background-color: aquamarine;
+	padding: 20px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
